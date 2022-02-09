@@ -11,9 +11,9 @@
         "Ravencoin",
         "KawPoW"
     ],
-    "homepage": "https://github.com/J-A-M-P-S/jamps-ravencoin-pool",
+    "homepage": "https://github.com/lomosky1/jamps-ravencoin-pool.git",
     "bugs": {
-        "url": "https://github.com/J-A-M-P-S/jamps-ravencoin-pool/issues"
+        "url": "https://github.com/lomosky1/jamps-ravencoin-pool/issues"
     },
     "license": "GPL-3.0",
     "author": "JAMPS",
@@ -26,7 +26,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/J-A-M-P-S/jamps-ravencoin-pool.git"
+        "url": "https://github.com/lomosky1/jamps-ravencoin-pool.git"
     },
     "devDependencies": {
         "require-so-slow": "^2.0.5"
@@ -38,7 +38,7 @@
         "bcrypt-pbkdf": "^1.0.2",
         "bignum": "^0.13.1",
         "bignumber.js": "^6.0.0",
-        "bittrex-exchange-api": "git+https://github.com/J-A-M-P-S/bittrex-exchange-api.git",
+        "bittrex-exchange-api": "git+https://github.com/lomosky1/bittrex-exchange-api.git",
         "bittrex-rest-client": "^2.0.4",
         "body-parser": "^1.18.3",
         "chai": "^4.3.4",
@@ -68,14 +68,14 @@
         "ls": "^0.2.1",
         "mime-types": "^2.1.21",
         "moment": "^2.23.0",
-        "multi-hashing": "git://github.com/J-A-M-P-S/jamps-ravencoin-hashing.git",
+        "multi-hashing": "git://github.com/bluesevens/jamps-ravencoin-pool.git",
         "mysql": "^2.16.0",
         "newrelic": "^5.1.0",
-        "node-crypto-api": "git+https://github.com/J-A-M-P-S/node-crypto-api.git",
+        "node-crypto-api": "git+https://github.com/bluesevens/node-crypto-api.git",
         "node-json-minify": "^1.0.0",
         "node-multi-hashing": "^0.0.1",
         "node-watch": "^0.5.9",
-	"nomics": "git+https://github.com/J-A-M-P-S/nomics-javascript.git",
+	"nomics": "git+https://github.com/bluesevens/nomics-javascript.git",
         "nonce": "^1.0.4",
         "redis": "^2.8.0",
         "redis-commands": "^1.7.0",
@@ -85,7 +85,7 @@
         "sha3": "^2.1.4",
         "sma": "^0.1.1",
         "sshpk": "^1.15.2",
-        "stratum-pool": "git+https://github.com/J-A-M-P-S/jamps-ravencoin-stratum.git",
+        "stratum-pool": "git+https://github.com/bluesevens/jamps-ravencoin-stratum.git",
         "underscore": "^1.12.1",
         "winston": "^3.2.1",
         "winston-daily-rotate-file": "^3.5.1",
